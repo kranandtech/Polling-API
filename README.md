@@ -20,9 +20,6 @@ You need to create an API where anyone can create questions with options and als
 - Git
 - MongoDB Atlas
 - Visual Studio Code
-# Tools used for hosting
-- Cyclic
-- Git
 
 # Steps to set project locally[Windows]
 - Go to terminal. Run below command:
