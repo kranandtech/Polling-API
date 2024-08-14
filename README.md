@@ -23,7 +23,7 @@ You need to create an API where anyone can create questions with options and als
 
 # Steps to set project locally[Windows]
 - Go to terminal. Run below command:
-     git clone https://github.com/anandkumarmca6/polling-api.git
+     git clone https://github.com/kranandtech/Polling-API.git
 -  cd polling-api
 - npm install
 - npm start
