@@ -23,8 +23,6 @@ You need to create an API where anyone can create questions with options and als
 # Tools used for hosting
 - Cyclic
 - Git
-# Live project API Link
-
 
 # Steps to set project locally[Windows]
 - Go to terminal. Run below command:
